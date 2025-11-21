@@ -1,6 +1,6 @@
 ### Movie synopsis classifier
 
-Simple movie synopsis classifier using different techniques - tfidVectorizer and SentenceTransformer
+Simple movie synopsis classifier using different techniques - tfidfVectorizer and SentenceTransformer
 
 Model used as a lightGBM with multiclass objective, optimized with optuna
 
